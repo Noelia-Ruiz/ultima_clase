@@ -1,0 +1,40 @@
+[
+    {
+        "nombre": "Federico",
+        "apellido": "Alvear",
+        "edad": 41,
+        "pelicula": "Barbie",
+        "anioLanzamiento":2023,
+
+        "butaca": [
+            {
+                "fila": "a",
+                "numeroDeAsiento": 23,
+                "esPasillo": false
+            },
+            {
+                "fila": "a",
+                "numeroDeAsiento": 24,
+                "esPasillo": false
+            },
+            {
+                "fila": "a",
+                "numeroDeAsiento": 25,
+                "esPasillo": true
+            }
+        ]
+    },
+    {
+        "nombre":"Pamela",
+        "apellido":"Sosa",
+        "edad":45,
+        "pelicula":"Megalodon",
+        "anioLanzamiento":2023,
+
+        "butaca":{
+            "fila":"b",
+            "numeroDeAsiento":40,
+            "esPasillo":true
+        }
+    }
+]
